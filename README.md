@@ -1,4 +1,4 @@
 # Examen1
 examen1
 
-ver [aquí](https://fabianromero20.github.io/Examen1/)
+ver [aquí](https://github.com/FabianRomero20/Examen1.git)
